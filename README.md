@@ -15,7 +15,7 @@ I’m **Manthan** (`Manthan`, reg no `24BAI10670`). I wrote a few small shell sc
 
 ## How to run the scripts
 
-From the repo directory (`/home/krishna/oss-audit-24BCE10678`):
+From the repo directory (`(https://github.com/Manthan670/oss-audit-24BCE10670)`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`
