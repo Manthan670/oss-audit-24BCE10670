@@ -1,6 +1,6 @@
 # oss-audit-24BAI10670
 
-This is my Open Source Software lab repo for auditing **Git** on **Ubuntu 24.04 (WSL2)**.
+This is my Open Source Software lab repo for auditing **Git** on **Windows 11**.
 
 I’m **Manthan** (`Manthan`, reg no `24BAI10670`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
 
