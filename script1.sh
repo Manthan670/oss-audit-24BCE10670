@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Mantha (24BAI10678)
+# Author: Manthan (24BAI10670)
 # Course: Open Source Software
 # Software Choice: Git
 
